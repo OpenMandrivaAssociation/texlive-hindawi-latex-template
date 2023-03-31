@@ -1,6 +1,6 @@
 Name:		texlive-hindawi-latex-template
 Version:	57757
-Release:	1
+Release:	2
 Summary:	A LaTeX template for authors of the Hindawi journals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hindawi-latex-template
