@@ -3,7 +3,7 @@ Version:	57757
 Release:	2
 Summary:	A LaTeX template for authors of the Hindawi journals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hindawi-latex-template
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hindawi-latex-template
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hindawi-latex-template.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hindawi-latex-template.doc.r%{version}.tar.xz
